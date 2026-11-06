@@ -3,7 +3,7 @@
 ## Movie: John Wick
 
 * A retired hitman comes back for revenge after someone takes his dog.*
-* * John Wick** (2014) is my favorite action movie. The fight choreography is
+* John Wick** (2014) is my favorite action movie. The fight choreography is
 ** impressive**, and the hitman world-building is very unique.
 
 | Detail     | Info           |
